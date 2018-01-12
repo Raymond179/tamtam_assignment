@@ -21,7 +21,7 @@ The extra functionalities I added are:
 - Load more Instagram posts button
 - Possibility to click on a post to show more information
 
-NOTE: I couldn't access TamTam's instagram feed because my request was not accepted. For that reason I chose to use my girlfriend's Instagram.
+NOTE: I couldn't access TamTam's instagram feed because my request was not accepted. Because I wanted to build the feed anyway, I chose to use my girlfriend's Instagram.
 
 ## Result
 https://raymondkorrel.nl/tamtam-assignment
